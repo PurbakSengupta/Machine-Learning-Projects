@@ -6,7 +6,7 @@ This repository contains a collection of interpretable and explainable statistic
 
 ## 📂 Project Structure
 
-```
+```bash
 Machine-Learning_Projects/
 ├── Forecasting.ipynb # Time-series modeling and prediction
 ├── Interpretability.ipynb # Model explanation using SHAP
