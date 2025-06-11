@@ -53,8 +53,8 @@ pip install -r requirements.txt
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Machine-Learning_Projects.git
-cd Machine-Learning_Projects
+git clone https://github.com/yourusername/Machine-Learning-Projects.git
+cd Machine-Learning-Projects
 ```
 
 ---
