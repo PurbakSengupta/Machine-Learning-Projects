@@ -6,6 +6,7 @@ This repository contains a collection of interpretable and explainable statistic
 
 ## 📂 Project Structure
 
+```
 Machine-Learning_Projects/
 ├── Forecasting.ipynb # Time-series modeling and prediction
 ├── Interpretability.ipynb # Model explanation using SHAP
@@ -14,6 +15,7 @@ Machine-Learning_Projects/
 ├── stores.csv, features.csv # Additional forecasting inputs
 ├── requirements.txt # Dependencies
 └── README.md # This file
+```
 
 ---
 
